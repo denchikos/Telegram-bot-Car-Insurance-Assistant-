@@ -1,0 +1,27 @@
+# Python
+pycache/
+*.py[cod]
+*.log
+
+# Virtual env
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Temp or generated files
+temp/
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.txt
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
