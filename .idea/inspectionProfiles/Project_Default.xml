@@ -1,0 +1,57 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="5">
+            <item index="0" class="java.lang.String" itemvalue="formcontrolname" />
+            <item index="1" class="java.lang.String" itemvalue="spinnertype" />
+            <item index="2" class="java.lang.String" itemvalue="icon_more_less" />
+            <item index="3" class="java.lang.String" itemvalue="display-none" />
+            <item index="4" class="java.lang.String" itemvalue="simple-slider__control" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="21">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="li" />
+            <item index="7" class="java.lang.String" itemvalue="br" />
+            <item index="8" class="java.lang.String" itemvalue="h1" />
+            <item index="9" class="java.lang.String" itemvalue="p" />
+            <item index="10" class="java.lang.String" itemvalue="div" />
+            <item index="11" class="java.lang.String" itemvalue="div1" />
+            <item index="12" class="java.lang.String" itemvalue="ul" />
+            <item index="13" class="java.lang.String" itemvalue="a1" />
+            <item index="14" class="java.lang.String" itemvalue="app-slider" />
+            <item index="15" class="java.lang.String" itemvalue="section1" />
+            <item index="16" class="java.lang.String" itemvalue="div2" />
+            <item index="17" class="java.lang.String" itemvalue="ul1" />
+            <item index="18" class="java.lang.String" itemvalue="a_castom" />
+            <item index="19" class="java.lang.String" itemvalue="a2" />
+            <item index="20" class="java.lang.String" itemvalue="img1" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
